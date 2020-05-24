@@ -13,7 +13,9 @@ BEGIN
 
 
 	SELECT 
-	* 
+		month_registered
+		,[1],[2],[3],[4],[5],[6]
+		,[7],[8],[9],[10],[11],[12]
 	FROM dbo.pivot_Customer_PerMonth_FirstContract_MonthDiff_percent
 
 END
