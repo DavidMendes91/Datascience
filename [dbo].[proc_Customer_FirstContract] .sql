@@ -1,5 +1,4 @@
-
-ALTER   PROCEDURE [dbo].[proc_Customer_FirstContract] 
+CREATE   PROCEDURE [dbo].[proc_Customer_FirstContract] 
 AS
 BEGIN
 	
